@@ -2,8 +2,8 @@
 
 ![tituloCalculadora](https://github.com/MariaGarciaJordan/p3-calculator/assets/149299859/b4d4c2c0-7475-449f-ae07-bcdddb72b81a)
 
-📋 ENUNCIADO
-En este proyecto el objetivo es desarrollar una aplicación web estática e interactiva haciendo uso de HTML, CSS y Javascript para realizar una calculadora.
+📋 ENUNCIADO:
+-En este proyecto el objetivo es desarrollar una aplicación web estática e interactiva haciendo uso de HTML, CSS y Javascript para realizar una calculadora.
 
 ![81d3f60bca6d3b2cbef6ba1ff1e0b4f7-cute-dibujos-animados-calculadora](https://github.com/MariaGarciaJordan/p3-calculator/assets/149299859/c15038d1-4d2b-424f-9d30-4df7322f83b8)
 
