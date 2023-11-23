@@ -10,13 +10,12 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-   
 }
 
 .position-calculator {
     background-color: rgb(72, 145, 120); 
     padding: 20px;
-    border: 1px solid rgb(7, 4, 4);
+    border: 1px solid rgb(161, 145, 103);
     border-radius: 10px; 
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -26,12 +25,12 @@
 
 .calculator__result, .calculator__button {
     background-color:  #e68e53ec;
-    color: brown;
-    border: 1px solid  #aed6f1;
+    color: rgb(12, 12, 12);
+    border: 1px solid  rgb(105, 82, 20);
     padding: 10px 15px;
     font-size: 1.2rem;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 50px;
 }
 .position-calculator {
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
@@ -41,17 +40,16 @@
 	grid-column: 1 / span 4;
 	text-align: end;
 	background-color: aliceblue;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
 .calculator__button {
 	cursor: pointer;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 20px rgba(109, 108, 108, 0.3);
 }
 
 .calculator__button:hover{
 	background-color: #8f532bec;
-    
 }
 
 .background-image {
@@ -60,8 +58,8 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('img_wallpaper/wallpaper3jpg.jpg'); /* Reemplaza con la ruta de tu imagen */
+    background-image: url('img_wallpaper/wallpaper3jpg.jpg'); 
     background-size: cover;
     background-position: center;
-    z-index: -1; /* Asegura que esté detrás de los demás elementos */
+    z-index: -1; 
 }
