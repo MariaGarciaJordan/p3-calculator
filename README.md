@@ -23,11 +23,27 @@
 <br><p>Cuando abras la página web, esta mostrará en su centro una calculadora cuya operaciones serán máximo de dos valores.
 Sólo tendrás que clickar los números de interés que desees (por ejemplo 8+2) y dandole al "=" obtendrás el resultado.</p>
 
+<h2>📋 TECNOLOGIAS USADAS:<h2>
+   <ul>
+   -HTML
+
+   -CSS
+
+   -JavaScript
+
+   -Canva
+
+   -Figma
+
+   -YouTube
+
+   -Google
+   </ul>
+
 <h2>📋 ENLACES DE INTERÉS:<h2>
    
    <ul>- Tutorial: https://www.youtube.com/watch?v=CgFDwcQCa-E&t=7s
      
-   - Manual básico JS: [Uploading JavaScript (básico).pdf…]()
    </ul>
 
 <h2>✒️ Autor:</h2>
